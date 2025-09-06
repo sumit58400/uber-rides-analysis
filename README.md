@@ -42,3 +42,6 @@ Dataset Source: [Kaggle Uber Dataset](https://www.kaggle.com/fivethirtyeight/ube
    ```bash
    git clone https://github.com/yourusername/uber-ride-analysis.git
    cd uber-ride-analysis
+2.pip install pandas numpy matplotlib seaborn
+3.jupyter notebook UberDataAnalaysis.ipynb
+
